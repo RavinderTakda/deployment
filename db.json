@@ -1,0 +1,274 @@
+{
+  "productdata1": [
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/7f13cd39-7e00-4501-9943-127614c67ace.jpeg?h=365&w=240&dpr=2",
+      "link": "Shirts & Tanks"
+      
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/21dee4f9-0342-4f72-b79c-8a6d2dbca4c6.jpeg?h=365&w=240&dpr=2",
+      "link": "Leggings"
+      
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/578e8099-877a-4ed8-bdb6-0daf076c77b7.jpeg?h=365&w=240&dpr=2",
+      "link": "Sports Bras"
+      
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/63d278c5-996b-44c2-a23c-60b69b61a70f.jpeg?h=365&w=240&dpr=2",
+      "link": "Dresses & Skirts"
+      
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/7b843707-65cf-466c-ad50-7f490c830d88.jpeg?h=365&w=240&dpr=2",
+      "link": "Sweatshirts & Hoodies"
+      
+    }
+  ],
+  "productdata2": [
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/7930d8c2-b701-4963-b53f-e29e43e26098.jpeg?h=365&w=240&dpr=2",
+      "h1": "Thread & Supply",
+      "description": "Plaid Flannel Shacket",
+      "price":3534
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/58a95282-985a-4178-9c6e-48b066a75500.jpeg?h=365&w=240&dpr=2",
+      "h1": "Thread & Supply",
+      "description": "Plaid Flannel Shacket",
+      "price":8465
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/365e8118-931e-4da6-9a68-c3e27ddca353.jpeg?h=365&w=240&dpr=2",
+      "h1": "vuori",
+      "description": "Halo 2.0 Performance Zip Front Hoodie",
+      "price":3456
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/1abebae8-b6b6-43c6-a397-eaff0fab7d24.jpeg?h=365&w=240&dpr=2",
+      "h1": "SPANX®",
+      "description": "Perfect Length Dolman Sleeve Top",
+      "price":4534
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/1abebae8-b6b6-43c6-a397-eaff0fab7d24.jpeg?h=365&w=240&dpr=2",
+      "h1": "SPANX®",
+      "description": "Perfect Length Dolman Sleeve Top (Regular & Plus Size)",
+      "price":6335
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/9a533010-4682-4a2c-9512-cbe5a6775bf7.jpeg?h=365&w=240&dpr=2",
+      "h1": "Sub_Urban Riot",
+      "description": "Favorite Daughter Graphic Sweatshirt",
+      "price":5633
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/10dc5343-10ef-4016-9d0e-f1c710e6322d.jpeg?h=365&w=240&dpr=2",
+      "h1": "Nike",
+      "description": "Sportswear Collection Essentials Oversize Hoodie",
+      "price":8745
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/1374e9d7-7ae9-47ea-a591-d4917981fbec.jpeg?h=365&w=240&dpr=2",
+      "h1": "vineyard vines",
+      "description": "Shep Quarter-Zip Knit Shirt",
+      "price":8456
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/f98556dc-3fdc-46fd-9600-62d67ecc2f22.jpeg?h=365&w=240&dpr=2",
+      "h1": "vuori",
+      "description": "Sunnyside Hoodie",
+      "price":8459
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/8adc2946-9aec-4a21-9757-547e8a13fac3.jpeg?h=365&w=240&dpr=2",
+      "h1": "Nike",
+      "description": "Sportswear Essential Oversize Sweatshirt",
+      "price":7456
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/ba713fa3-cf79-455a-81d4-29b26b343e6f.jpeg?h=365&w=240&dpr=2",
+      "h1": "Alo",
+      "description": "Accolade Crewneck Sweatshirt",
+      "price":2756
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/353a384d-d0b5-44d9-b4c5-13157b433fa0.jpeg?h=365&w=240&dpr=2",
+      "h1": "Sweaty Betty",
+      "description": "After Class Cotton Blend Crop Sweatshirt",
+      "price":4564
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/45bc4d2a-8e2c-4b43-9d97-e7ea3333630c.jpeg?h=365&w=240&dpr=2",
+      "h1": "Nike",
+      "description": "Sportswear Collection Essentials Oversize Hoodie",
+      "price":8954
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/8fd5b7e7-e1b8-4328-8258-539299abc574.jpeg?h=365&w=240&dpr=2",
+      "h1": "Zella",
+      "description": "Cara Lite Half Zip Crop Sweatshirt",
+      "price":2345
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/dcbdbf2f-bf23-403e-a8c2-6acd487988c3.jpeg?h=365&w=240&dpr=2",
+      "h1": "BP.",
+      "description": "Oversize Organic Cotton Blend Zip Hoodie",
+      "price":7455
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/829830bf-a81a-4b2c-b29d-e05a97478b32.jpeg?h=365&w=240&dpr=2",
+      "h1": "Zella",
+      "description": "Carey Crew High/Low Sweatshirt",
+      "price":7456
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/3f7d1747-57b2-4bc4-b641-e34175aa7e1e.jpeg?h=365&w=240&dpr=2",
+      "h1": "Zella",
+      "description": "Carey Quilted Funnel Neck Pullover",
+      "price":3459
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/c53e8198-1230-44aa-b9db-549146bd31e8.jpeg?h=365&w=240&dpr=2",
+      "h1": "Aviator Nation",
+      "description": "5-Stripe Zip Hoodie",
+      "price":2000
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/f6c8c65f-7490-4074-9347-9fb377244d47.jpeg?h=365&w=240&dpr=2",
+      "h1": "Nike",
+      "description": "Sportswear Essential Oversize Sweatshirt",
+      "price":5637
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/b3199649-c131-4754-9107-41f5022fa0b7.jpeg?h=365&w=240&dpr=2",
+      "h1": "Zella",
+      "description": "Women's Cara Cotton Blend Fleece Hoodie",
+      "price":2500
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/e6291c35-b653-491a-8b7e-56ac1b0451ca.jpeg?h=365&w=240&dpr=2",
+      "h1": "Zella",
+      "description": "Explore Half Zip Terry Hoodie",
+      "price":4564
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/1325631f-29e3-4859-af71-bee5252e6b90.jpeg?h=365&w=240&dpr=2",
+      "h1": "Sweaty Betty",
+      "description": "After Class Split Sweatshirt",
+      "price":7456
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/105fc6a8-f026-4e69-a500-935943fb3fcf.jpeg?h=365&w=240&dpr=2",
+      "h1": "iets frans",
+      "description": "If Unisex Crewneck Sweatshirt",
+      "price":4356
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/0f287954-2498-459a-8f41-54099973967b.jpeg?h=365&w=240&dpr=2",
+      "h1": "Felina",
+      "description": "Lassen Terry Sweatshirt",
+      "price":2856
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/0ac5b491-90a4-44a4-9383-2b2ed3d143a5.jpeg?h=365&w=240&dpr=2",
+      "h1": "Fear of God Essentials",
+      "description": "Half Zip Cotton Blend Pullover",
+      "price":23567
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/9d63f4e9-4b21-4fe2-b933-27ad7ac387d2.jpeg?h=365&w=240&dpr=2",
+      "h1": "Nike",
+      "description": "Sportswear Fleece Hoodie",
+      "price":2763
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/7b843707-65cf-466c-ad50-7f490c830d88.jpeg?h=365&w=240&dpr=2",
+      "h1": "adidas Originals",
+      "description": "Trefoil Crewneck Sweatshirt",
+      "price":8569
+    },
+
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/378ac3c9-7e12-4269-8ff9-40d7bc212740.jpeg?h=365&w=240&dpr=2",
+      "h1": "Zella",
+      "description": "Cara Hoodie",
+      "price":4673
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/8e07a312-81d0-4bf3-b80e-b790ffbe0367.jpeg?h=365&w=240&dpr=2",
+      "h1": "Fear of God Essentials",
+      "description": "Half Zip Cotton Blend Pullover",
+      "price":4768
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/c728c346-c994-4fc3-b04f-19848091180a.jpeg?h=365&w=240&dpr=2",
+      "h1": "Zella",
+      "description": "Women's Seamless Rib Sweatshirt",
+      "price":4000
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/227d5b1a-7e40-4623-9232-d88851b94893.jpeg?h=365&w=240&dpr=2",
+      "h1": "Fear of God Essentials",
+      "description": "Mock Neck French Terry Pullover",
+      "price":8458
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/75ae9755-829a-4ce7-88bc-1ecb53a5cf8b.jpeg?h=365&w=240&dpr=2",
+      "h1": "Varley",
+      "description": "Manning Sweatshirt",
+      "price":2845
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/1190aa93-e058-4b25-965e-4be5aefff42b.jpeg?h=365&w=240&dpr=2",
+      "h1": "Nike",
+      "description": "Element Half Zip Pullover",
+      "price":2974
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/d08d9024-3bdf-4717-ad8c-89709b72e00b.jpeg?h=365&w=240&dpr=2",
+      "h1": "Varley",
+      "description": "Cole Mesh Stitch Polo Sweater",
+      "price":14589
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/60b15317-82f2-460b-8d6d-e8e968cf1da5.jpeg?h=365&w=240&dpr=2",
+      "h1": "Free People",
+      "description": "Dune Bug Zip-Up Cotton Cardigan",
+      "price":8695
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/77a81af3-95fb-4d38-af4a-ca81c307ffa9.jpeg?h=365&w=240&dpr=2",
+      "h1": "Juicy Couture",
+      "description": "Bling Velour Hoodie",
+      "price":5700
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/59872a3b-decf-4b1e-afdd-e81eb4d45c7e.jpeg?h=365&w=240&dpr=2",
+      "h1": "PANGAIA",
+      "description": "365 PPRMINT™ Unisex Organic Cotton Hoodie",
+      "price":9856
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/84f019c7-ec99-49ea-8310-58f077d9b9cc.jpeg?h=365&w=240&dpr=2",
+      "h1": "Varley",
+      "description": "Vine Ottoman Half Zip Pullover",
+      "price":8000
+    },
+
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/1df86f8a-a5e2-47d8-9309-0ddad6f0832e.jpeg?h=365&w=240&dpr=2",
+      "h1": "Zella",
+      "description": "Restore Soft Full Zip Hoodie",
+      "price":5000
+    },
+    {
+      "image": "https://n.nordstrommedia.com/id/sr3/af7816d4-b608-46f2-94e1-f78af7d7a458.jpeg?h=365&w=240&dpr=2",
+      "h1": "Free People",
+      "description": "Uptown Stripe Sweatshirt",
+      "price":9658
+    }
+  ]
+ 
+}
