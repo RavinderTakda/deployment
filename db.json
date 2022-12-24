@@ -269,6 +269,247 @@
       "description": "Uptown Stripe Sweatshirt",
       "price":9658
     }
-  ]
+
+  ],
+
+  
+    "data1": [
+      {
+        "h1": "Get a $40 Bonus Note!",
+        "image": "https://n.nordstrommedia.com/id/55b1990e-c5b3-465f-8f2f-826f4e8f63fe.png",
+        "description": "An exclusive offer for new Nordstrom credit cardmembers. Restrictions apply.",
+        "Link":"Apply Now"
+      }
+    ],
+    "data2": [
+      {
+        "h1": "All-New ASOS",
+        "image1": "https://n.nordstrommedia.com/id/sr3/bad9c2eb-becc-4966-acfe-e2fbd8fc0a0d.jpeg?h=365&w=240&dpr=2",
+        "image2": "https://n.nordstrommedia.com/id/sr3/c780097d-18a8-453e-8a19-79be9263b1e9.jpeg?h=365&w=240&dpr=2",
+        "description": "Give the last days of summer everything you've got.",
+        "Link1":"ASOS for Women",
+        "Link2":"ASOS for Men",
+        "Link3":"All ASOS",
+        "Link4":"Discover ASOS"
+      }
+    ],
+    "data3": [
+      {
+        "h1": "Nordstrom x Nike Fall '22",
+        "image1": "https://n.nordstrommedia.com/id/61b4a1f0-1876-485a-958b-992ee4d502d6.jpeg?h=750&w=1335",
+        "description": "Class is back and the Nike and Jordan drops are hot. ",
+        "Link1":"Shop NxN",
+        "Link2":"Explore NxN"
+        
+      },
+      {
+        "h1": "We The Free by Free People: New Arrivals",
+        "image1": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9651d686-ded7-11e9-bd86-784b242a2ca8.jpg?crop=3244%2C3244%2C811%2C0",
+        "description": "Signature silhouettes, easy fits and lived-in staples—these are the kinds of styles that only get better with time.",
+        "Link1":"We The Free by Free People",
+        "Link2":"All Free People"
+        
+      },
+      {
+        "h1": "Sustainable Style",
+        "image1": "https://m.buro247.my/local/images/buro/SafariSS16-CA.jpg",
+        "description": "Get to know Allbirds, an industry leader making sustainable footwear its business.",
+        "Link1":"Shop Allbirds",
+        "Link2":"Go Behind the Brand"
+        
+      }
+    ],
+    "data4": [
+      {
+        "h1": "POP-IN@NORDSTORM",
+        "h2": "T A P P A N",
+        "image1": "https://n.nordstrommedia.com/id/0b1a4cb7-bfd3-48ca-a238-8cb7a475e968.jpeg?h=749&w=1608",
+        "description": "Coming soon: a shoppable gallery featuring contemporary art from emerging talent—and a gift shop too.",
+        "Link1":"Get a Preview"
+       
+        
+      }
+    ],
+    "data5": [
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/8327ec80-6b67-4521-9e35-01b6ba08a52f.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":4103
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/34f931e7-8fcf-4bee-9a47-07f43c8f3fb5.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":6700
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/7413f2e9-16db-43d0-a415-382f3516c2b3.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":7500
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/c080b923-72c4-4312-951e-decf8b72c5df.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":4166
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/7c3cdc5d-867a-40e3-9ac2-cbcff57a3d93.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":5678
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/0100c704-005e-4629-a195-ce28d5d3354f.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":3423
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/2391a685-f6fc-4c2a-96c5-36265f234e0e.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":4543
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/2d479d9c-d533-44e2-9341-f8f8b61293fd.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":6345
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/dcda8d00-3732-47ac-b871-e01f8ec24e3f.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":8456
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/ab016cdc-0057-45cd-ae13-7cd61e6182b0.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":2145
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/sr3/ce0111b0-90a2-4d68-96f5-7abf61daec10.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description":"ASOS DESIGN",
+        "price":4667
+      }
+  
+     
+    ],
+    "data6": [
+      {
+        "image1": "https://n.nordstrommedia.com/id/5b867592-7b50-4fd0-8fe1-ea20162fad8a.jpeg?h=750&w=1335",
+        "description":"Get the Look: Vibrant Tailoring",
+        "link":"Read More"
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/d89e32bf-fca8-4587-8cc8-f361e04c58e2.jpeg?h=600&w=1609",
+        "description":"5 Ways to Set the Scene for a Cozy Fall",
+        "link":"Read More"
+      },
+      {
+        "image1": "https://n.nordstrommedia.com/id/d89e32bf-fca8-4587-8cc8-f361e04c58e2.jpeg?h=600&w=1609",
+        "description":"From The Nordy Pod: The Breast Prosthesis Program with Nikky Oliva",
+       
+        "link":"Read More"
+      }
+  
+    ],
+    "data7": [
+      {
+        "image1": "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjU5MjgxMzQ1LjI3MTQ2MjQ2NzQyLmpwZWc=.jpg?w=640&h=640&fit=cover",
+        "description":"Women"
+     
+      },
+      {
+        "image1": "https://i.pinimg.com/736x/1e/7f/31/1e7f31ee7546bbac9040e544d9dc56c5.jpg",
+        "description":"Men"
+     
+      },
+      {
+        "image1": "https://www.prodigi.com/img/products/card/category-kids-clothing.jpg",
+        "description":"Kids"
+     
+      },
+      {
+        "image1": "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUwNjMwMTk2LjEwNjY0NjExNjMuanBlZw==.jpg?w=640&h=640&fit=cover",
+        "description":"Beauty & Fragrance"
+     
+      },
+      {
+        "image1": "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjU3NzI0MjEyLjE3OTkyNjkyMDM4NC5qcGVn.jpg?w=640&h=640&fit=cover",
+        "description":"Home"
+     
+      },
+      {
+        "image1": "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjQ5OTcyMzcxLjgwODIwOTczMTY2OS5qcGVn.jpg?w=640&h=640&fit=cover",
+        "description":"Designer"
+     
+      }
+      
+    ],
+    "data8": [
+      {
+        "image":"https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjYwNjgwNDMyLjc1OTk2Nzg3MTg3OC5qcGVn.jpg?w=640&h=640&fit=cover"
+        
+      },
+      {
+        "image":"https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjYwNjgyMzUzLjE4NzYwMjUxNTEzNS5qcGVn.jpg?w=640&h=640&fit=cover"
+        
+      },
+      {
+        "image":"https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjYwMTYzMjMyLjMxNjM2Njc2MjYyNi5qcGVn.jpg?w=640&h=640&fit=cover"
+        
+      },
+      {
+        "image":"https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjYwMjM2NjU3LjU0MDgxOTIyMzc0NS5qcGVn.jpg?w=640&h=640&fit=cover"
+        
+      },
+      {
+        "image":"https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjU3MTk3MDk1LjIyODIyNTIxNDYxMC5qcGVn.jpg?w=640&h=640&fit=cover"
+        
+      },
+      {
+        "image":"https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjU3MjE0NzAxLjk1NjUxNjU5MzE0LmpwZWc=.jpg?w=640&h=640&fit=cover"
+        
+      },
+      {
+        "image":"https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjU5MjgxMzQ1LjI3MTQ2MjQ2NzQyLmpwZWc=.jpg?w=640&h=640&fit=cover"
+        
+      },
+      {
+        "image":"https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjU5MDE5OTY5Ljc2MjM2ODM0Mzc0LmpwZWc=.jpg?w=640&h=640&fit=cover"
+        
+      }
+    ],
+    "data9": [
+      {
+        "image": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bm9yZHN0cm9t/0dd2fa6e-fb2f-508d-b664-e6f5cf14eb16",
+        "description": "some comment",
+        "price":9000
+      },
+      {
+        "image": "https://n.nordstrommedia.com/id/sr3/95698880-f204-4297-b2f0-3f76543425d9.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description": "Street Level",
+        "price": 5345
+      },
+      {
+        "image": "https://n.nordstrommedia.com/id/sr3/ecf124f1-8f37-4ad8-bdab-f18fb119ada7.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description": "CHANEL",
+        "price": 8463
+      },
+      {
+        "image": "https://n.nordstrommedia.com/id/sr3/058c565c-a25a-40cd-9223-f43d6ba58995.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description": "CHANEL",
+        "price": 9343
+      },
+      {
+        "image": "https://n.nordstrommedia.com/id/sr3/9f7f66fd-c5bb-4000-8888-32014d1d9f32.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description": "UGG",
+        "price": 2453
+      },
+      {
+        "image": "https://n.nordstrommedia.com/id/sr3/6aa519a0-5a00-4781-b312-50a19ae7f5e3.jpeg?q=45&dpr=2&h=365.31&w=230",
+        "description": "Nike",
+        "price": 1435
+      }
+  
+  
+    ]
+  
+    
  
 }
